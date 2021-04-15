@@ -22,3 +22,6 @@ Support one directional - async communication
 ## Phase 2 - Integrating with Storage Adapters (SQS, RabbitMQ)
 inspired by https://github.com/jstemmer/rehook
 - Webhooks from Payment gateways
+
+## Architecture
+- https://hookdeck.io/
